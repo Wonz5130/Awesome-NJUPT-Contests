@@ -149,6 +149,8 @@
 
 - **大学生科技节**
 
+  ![](https://github.com/Wonz5130/Awesome-NJUPT-Contests/raw/master/img/2018%E7%A7%91%E6%8A%80%E8%8A%82.png?1555854047615)
+
 ### 致谢
 
 大部分都是官微整理出来的，向官微表示感谢！
